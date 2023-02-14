@@ -1,0 +1,2 @@
+# devops-cortel
+Learning DevOps.
