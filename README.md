@@ -1,3 +1,3 @@
 # devops-cortel
 
-Learning DevOps. Cortel
+Learning DevOps. Cortel.
