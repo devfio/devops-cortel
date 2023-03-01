@@ -15,7 +15,7 @@ Learning DevOps. Cortel.
 
 Полный хеш и комментарий коммита aefea:
 
-![Alt text](DZ Git Tools/1.png)
+![Alt text](../DZ Git Tools/1.png)
 
 Ответы.
 
