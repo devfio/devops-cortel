@@ -82,8 +82,11 @@ GPU - 4 MB
 3. Изменить CPU и RAM можно следующим образом:
 
 config.vm.provider "virtualbox" do |v|
+
   v.memory = 1024
+
   v.cpus = 2
+
 end
 
 4. Подключние по SSH выполнено командой `vagrant ssh`.
