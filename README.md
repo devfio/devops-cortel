@@ -22,3 +22,7 @@ https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-01/README%20Sy
 # ДЗ Работа в терминале. Лекция 2
 
 https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-02/README%20Sysadmin-02.md
+
+# ДЗ Операционные системы. Лекция 1
+
+https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-02/README%20Sysadmin-03.md
