@@ -70,12 +70,12 @@ PROCESS STATE CODES
 Here are the different values that the s, stat and state output specifiers (header "STAT" or "S") will display to describe the
 state of a process:
 
-D    uninterruptible sleep (usually IO) - непрерывный режим ожидания (обычно ввод-вывод)
-I    Idle kernel thread - ожидание потока ядра
-R    running or runnable (on run queue) - запущенный или пригодный для выполнения (в очереди выполнения)
-S    interruptible sleep (waiting for an event to complete) - прерываемый режим сна (ожидание завершения события)
-T    stopped by job control signal - остановлен сигналом управления заданием
-t    stopped by debugger during the tracing - остановлен отладчиком во время трассировки
-W    paging (not valid since the 2.6.xx kernel) - подкачка по страницам (недопустима начиная с ядра 2.6.xx)
-X    dead (should never be seen) - мертв (никогда не должен быть замечен)
+D    uninterruptible sleep (usually IO) - непрерывный режим ожидания (обычно ввод-вывод);
+I    Idle kernel thread - ожидание потока ядра;
+R    running or runnable (on run queue) - запущенный или пригодный для выполнения (в очереди выполнения);
+S    interruptible sleep (waiting for an event to complete) - прерываемый режим сна (ожидание завершения события);
+T    stopped by job control signal - остановлен сигналом управления заданием;
+t    stopped by debugger during the tracing - остановлен отладчиком во время трассировки;
+W    paging (not valid since the 2.6.xx kernel) - подкачка по страницам (недопустима начиная с ядра 2.6.xx);
+X    dead (should never be seen) - мертв (никогда не должен быть замечен);
 Z    defunct ("zombie") process, terminated but not reaped by its parentнесуществующий ("зомби") процесс, завершенный, но не возвращенный своим родителем
