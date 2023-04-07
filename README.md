@@ -26,3 +26,7 @@ https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-02/README%20Sy
 # ДЗ Операционные системы. Лекция 1
 
 https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-03/README%20Sysadmin-03.md
+
+# ДЗ Операционные системы. Лекция 2
+
+https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-04/README%20Sysadmin-04.md
