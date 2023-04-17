@@ -46,3 +46,7 @@ https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-07/README%20Sy
 # ДЗ Компьютерные сети. Лекция 3
 
 https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-08/README%20Sysadmin-08.md
+
+# ДЗ Элементы безопасности информационных систем
+
+https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-09/README%20Sysadmin-09.md
