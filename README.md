@@ -54,3 +54,7 @@ https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20Sysadmin-09/README%20Sy
 # ДЗ Основы виртуализации
 
 https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20virt-01/README%20virt-01.md
+
+# ДЗ Системы управления виртуализацией
+
+https://gitlab.com/devfio/devops-cortel/-/blob/main/DZ%20virt-02/README%20virt-02.md
